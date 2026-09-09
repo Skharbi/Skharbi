@@ -52,7 +52,7 @@ An AI-supported business analysis workspace connecting discovery, requirements, 
 ### AI Doc
 **Doctor Workflow × Healthcare AI**
 
-Exploring how AI can reduce physician documentation effort and return more attention to the patient, with a workflow centered on fast review and minimal clinician interaction.
+Exploring how AI can reduce Doctor documentation effort and return more attention to the patient, with a workflow centered on fast review and minimal clinician interaction.
 
 [View product story →](https://saleh-portfolio-psi.vercel.app/projects/ai-doc)
 
