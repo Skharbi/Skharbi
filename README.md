@@ -4,7 +4,7 @@
 
 **PharmD · CPHIMS · PMP**
 
-I work at the intersection of **clinical practice, healthcare technology, pharmacy automation, integration, and digital health** — translating real clinical and operational needs into technology that can be configured, implemented, validated, and improved in practice.
+I work at the intersection of **clinical practice, healthcare technology, pharmacy automation, integration, and digital health**  translating real clinical and operational needs into technology that can be configured, implemented, validated, and improved in practice.
 
 My experience spans clinical systems and medication technology, from requirements and workflow design through configuration, integration, testing, go-live, and optimization.
 
