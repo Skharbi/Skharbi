@@ -4,7 +4,7 @@
 
 **PharmD · CPHIMS · PMP**
 
-I work at the intersection of **clinical practice, healthcare technology, pharmacy automation, integration, and digital health**  translating real clinical and operational needs into technology that can be configured, implemented, validated, and improved in practice.
+I work at the intersection of **clinical practice, healthcare technology, pharmacy automation, integration, and digital health** — translating real clinical and operational needs into technology that can be configured, implemented, validated, and improved in practice.
 
 My experience spans clinical systems and medication technology, from requirements and workflow design through configuration, integration, testing, go-live, and optimization.
 
@@ -40,28 +40,28 @@ Clinical decision support · medication-safety workflows · antimicrobial stewar
 
 ---
 
-## What I'm Building
+## AI Projects
 
 ### AI Business Craft
 **Business Analysis × AI**
 
 An AI-supported business analysis workspace connecting discovery, requirements, quality, traceability, human review, and professional deliverables.
 
-[View product story →](https://saleh-portfolio-psi.vercel.app/projects/ai-business-craft)
+[Product story](https://saleh-portfolio-psi.vercel.app/projects/ai-business-craft) · [GitHub repository](https://github.com/Skharbi/ai-business-craft)
 
 ### AI Doc
 **Doctor Workflow × Healthcare AI**
 
 Exploring how AI can reduce Doctor documentation effort and return more attention to the patient, with a workflow centered on fast review and minimal clinician interaction.
 
-[View product story →](https://saleh-portfolio-psi.vercel.app/projects/ai-doc)
+[Product story](https://saleh-portfolio-psi.vercel.app/projects/ai-doc) · [GitHub repository](https://github.com/Skharbi/Ai_Doc)
 
 ### HealthScope
 **Healthcare Intelligence × AI Automation**
 
 A role-aware healthcare strategic-intelligence workflow designed to turn verified global and Saudi/GCC signals into traceable, decision-relevant intelligence while suppressing low-value updates.
 
-[View product story →](https://saleh-portfolio-psi.vercel.app/projects/healthscope)
+[Product story](https://saleh-portfolio-psi.vercel.app/projects/healthscope) · [GitHub repository](https://github.com/Skharbi/healthscope)
 
 ---
 
