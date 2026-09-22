@@ -9,6 +9,7 @@ I work at the intersection of **clinical practice, healthcare technology, pharma
 My experience spans clinical systems and medication technology, from requirements and workflow design through configuration, integration, testing, go-live, and optimization.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20my%20work-2f7058?style=for-the-badge)](https://saleh-portfolio-psi.vercel.app)
+[![HealthScope](https://img.shields.io/badge/HealthScope-Live%20MVP-0C8F92?style=for-the-badge)](https://healthscopebrief.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phsaloufi)
 
 ---
@@ -42,6 +43,13 @@ Clinical decision support · medication-safety workflows · antimicrobial stewar
 
 ## AI Projects
 
+### HealthScope — Live MVP
+**Healthcare Intelligence × AI Automation**
+
+Role-aware healthcare intelligence that turns verified global and Saudi/GCC signals into concise professional briefs. The live MVP includes profession and specialty onboarding, personalized intelligence, relevant events, safety visibility, original-source access, optional email delivery, relevance feedback, and responsive mobile and desktop use.
+
+**[Open the live MVP](https://healthscopebrief.app)** · [Product story](https://saleh-portfolio-psi.vercel.app/projects/healthscope) · [GitHub repository](https://github.com/Skharbi/healthscope)
+
 ### AI Business Craft
 **Business Analysis × AI**
 
@@ -52,16 +60,9 @@ An AI-supported business analysis workspace connecting discovery, requirements, 
 ### AI Doc
 **Doctor Workflow × Healthcare AI**
 
-Exploring how AI can reduce Doctor documentation effort and return more attention to the patient, with a workflow centered on fast review and minimal clinician interaction.
+Exploring how AI can reduce doctor documentation effort and return more attention to the patient, with a workflow centered on fast review and minimal doctor interaction.
 
 [Product story](https://saleh-portfolio-psi.vercel.app/projects/ai-doc) · [GitHub repository](https://github.com/Skharbi/Ai_Doc)
-
-### HealthScope
-**Healthcare Intelligence × AI Automation**
-
-A role-aware healthcare strategic-intelligence workflow designed to turn verified global and Saudi/GCC signals into traceable, decision-relevant intelligence while suppressing low-value updates.
-
-[Product story](https://saleh-portfolio-psi.vercel.app/projects/healthscope) · [GitHub repository](https://github.com/Skharbi/healthscope)
 
 ---
 
@@ -75,4 +76,4 @@ I start with the clinical and operational problem, translate it into requirement
 
 ### Explore my work
 
-**[Portfolio](https://saleh-portfolio-psi.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/phsaloufi)**
+**[Portfolio](https://saleh-portfolio-psi.vercel.app)** · **[HealthScope](https://healthscopebrief.app)** · **[LinkedIn](https://www.linkedin.com/in/phsaloufi)**
