@@ -45,15 +45,11 @@ Clinical decision support · medication-safety workflows · antimicrobial stewar
 
 These are distinct from my hospital employment projects. A working prototype or synthetic-data validation is not evidence of deployment in clinical practice.
 
-### Queryline Workspace — Local Hospital Analytics
-A privacy-first hospital analytics workspace combining local language-model interpretation with deterministic, tested calculations, using synthetic hospital data for validation. **Not a production hospital deployment.**
+### Queryline Workspace — Private Concept
+The idea is to help hospital teams explore operational performance through natural-language questions, with an emphasis on trustworthy answers and safeguarding sensitive data. This is independent development work, not a publicly available product or production deployment.
 
-[Repository](https://github.com/Skharbi/queryline-workspace)
-
-### Digital Formulary — Source-Grounded Clinical Informatics
-Standalone exploration of medication catalogues, privileges and IV preparation information from a supplied hospital formulary. **No AI; demonstration only, with unresolved clinical-data reconciliation.**
-
-[Repository](https://github.com/Skharbi/Pharmacy-Fourmulary)
+### Digital Formulary — Private Concept
+The idea is to simplify how healthcare professionals discover and navigate medication and formulary information, bringing related information together in a clearer experience. This is private development work, not an approved clinical reference or publicly available application.
 
 ## AI Projects
 
