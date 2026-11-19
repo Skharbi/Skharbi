@@ -1,10 +1,10 @@
 # Saleh Alharbi
 
-### Clinical Informatics & Digital Health
+### Clinical Informatics · Medication Technology · Healthcare AI
 
 **PharmD · CPHIMS · PMP**
 
-I work at the intersection of **clinical practice, healthcare technology, pharmacy automation, integration, and digital health** — translating real clinical and operational needs into technology that can be configured, implemented, validated, and improved in practice.
+I am a PharmD-trained informatics pharmacist with PMP and CPHIMS credentials. My work spans **clinical practice, medication-management technology, pharmacy automation, interoperability, and digital health**. I translate clinical and operational requirements into configured systems, implementation workflows, testing, and optimization. Alongside hospital technology work, I build independent AI tools and informatics prototypes.
 
 My experience spans clinical systems and medication technology, from requirements and workflow design through configuration, integration, testing, go-live, and optimization.
 
@@ -41,12 +41,26 @@ Clinical decision support · medication-safety workflows · antimicrobial stewar
 
 ---
 
+## Independent AI and Informatics Projects
+
+These are distinct from my hospital employment projects. A working prototype or synthetic-data validation is not evidence of deployment in clinical practice.
+
+### Queryline Workspace — Local Hospital Analytics
+A privacy-first hospital analytics workspace combining local language-model interpretation with deterministic, tested calculations, using synthetic hospital data for validation. **Not a production hospital deployment.**
+
+[Repository](https://github.com/Skharbi/queryline-workspace)
+
+### Digital Formulary — Source-Grounded Clinical Informatics
+Standalone exploration of medication catalogues, privileges and IV preparation information from a supplied hospital formulary. **No AI; demonstration only, with unresolved clinical-data reconciliation.**
+
+[Repository](https://github.com/Skharbi/Pharmacy-Fourmulary)
+
 ## AI Projects
 
-### HealthScope — Live MVP
+### HealthScope — Live MVP (Evaluation Ongoing)
 **Healthcare Intelligence × AI Automation**
 
-Role-aware healthcare intelligence that turns verified global and Saudi/GCC signals into concise professional briefs. The live MVP includes profession and specialty onboarding, personalized intelligence, relevant events, safety visibility, original-source access, optional email delivery, relevance feedback, and responsive mobile and desktop use.
+Role-aware healthcare intelligence that turns verified global and Saudi/GCC signals into concise professional briefs. The live MVP includes profession and specialty onboarding, personalized intelligence, relevant events, safety visibility, original-source access, optional email delivery, relevance feedback, and responsive mobile and desktop use. Expert-labelled relevance and safety prioritization remain under evaluation.
 
 **[Open the live MVP](https://healthscopebrief.app)** · [Product story](https://saleh-portfolio-psi.vercel.app/projects/healthscope) · [GitHub repository](https://github.com/Skharbi/healthscope)
 
@@ -57,14 +71,18 @@ An AI-supported business analysis workspace connecting discovery, requirements, 
 
 [Product story](https://saleh-portfolio-psi.vercel.app/projects/ai-business-craft) · [GitHub repository](https://github.com/Skharbi/ai-business-craft)
 
-### AI Doc
-**Doctor Workflow × Healthcare AI**
+### AI Doc — Testing Beta
+**Clinical Documentation × Healthcare AI**
 
-Exploring how AI can reduce doctor documentation effort and return more attention to the patient, with a workflow centered on fast review and minimal doctor interaction.
+A clinician-reviewed SOAP documentation beta using transcription and structured drafts. Test audio only; not cleared for real patient encounters and no clinical time-saving outcome established.
 
 [Product story](https://saleh-portfolio-psi.vercel.app/projects/ai-doc) · [GitHub repository](https://github.com/Skharbi/Ai_Doc)
 
 ---
+
+## Evidence and Outcomes
+
+Professional impact metrics listed above are reported in my portfolio CV and case studies. They describe hospital informatics activities, **not measured outcomes from my independent AI products**. Project repositories distinguish deployed features, synthetic-data testing, and remaining validation work.
 
 ## How I Work
 
